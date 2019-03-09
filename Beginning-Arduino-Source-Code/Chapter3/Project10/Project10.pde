@@ -1,4 +1,4 @@
-// Project 10 - Serial controlled mood lamp
+// Project 10 - Serial controlled mood lamp 串口控制 三色LED灯
 char buffer[18];
 int red, green, blue;
 
