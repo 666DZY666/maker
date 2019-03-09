@@ -1,4 +1,4 @@
-// Project 20
+// Project 20  定时器 刷新 发送信息 74HC595 控制led数码管显示 画面
 #include <TimerOne.h>
 
 int latchPin = 8; //Pin connected to Pin 12 of 74HC595 (Latch)
