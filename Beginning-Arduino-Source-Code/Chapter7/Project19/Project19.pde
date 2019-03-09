@@ -1,4 +1,4 @@
-// Project 19
+// Project 19   定时器 刷新 发送信息 74HC595 控制数码管显示 数字?
 #include <TimerOne.h>
 
 int latchPin = 8; //Pin connected to Pin 12 of 74HC595 (Latch)
