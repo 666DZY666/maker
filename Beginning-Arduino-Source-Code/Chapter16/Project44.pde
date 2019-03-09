@@ -1,4 +1,4 @@
-// Project 44
+// Project 44  串口发送回传
 
 char val = 0; // value read for serial port
 
