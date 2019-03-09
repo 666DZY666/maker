@@ -1,4 +1,4 @@
-// LED connected to digital pin 10 
+// LED connected to digital pin 10  多个for循环实现不同节奏闪灯
 int ledPin = 10;                
 
 // run once, when the sketch starts
