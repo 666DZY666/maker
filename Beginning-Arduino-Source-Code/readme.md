@@ -58,43 +58,43 @@ Chapter9/
 
 Chapter10/
 
-        Project28
-        Project29
-        Project30
+        Project28   Stepper步进电机控制
+        Project29   使用Shield直流电机驱动器控制电机正反转 
+        Project30   三个亮度传感器感应的巡线两轮小车  
 
 Chapter11/
 
-        Project31
-        Project32
+        Project31   spi 通信 读取 气压传感器SCP1000 数值 通过串口打印
+        Project32   spi 通信接收SCP1000气压传感器数值，通过lcd显示器显示
 
 Chapter12/
 
-        Project33
-        Project34
-        Project35
+        Project33   接触传感器  串口打印
+        Project34   接触传感器  通过lcd 显示 
+        Project35   接触传感器  通过 rgb三色 led 灯展示
 
 Chapter13/
 
-        Project36
-        Project37-1
-        Project37-2
+        Project36   模拟量温度传感器  华氏度 摄氏度 串口打印
+        Project37-1 数字式 单总线 ds18b20 温度传感器 串口打印 
+        Project37-2 数字式 单总线 ds18b20 温度传感器 串口打印 华氏度 摄氏度 
 
 Chapter14/
 
-        Project38
-        Project39
-        Project40
-        Project41
+        Project38   pwm脉冲式 距离传感器  串口打印
+        Project39   pwm脉冲式 距离传感器  led点阵屏显示
+        Project40   pwm脉冲式 距离传感器  led点阵屏显示 带声音报警功能
+        Project41   pwm脉冲式 距离传感器  转发声 tone
 
 Chapter15/
 
-        Project42
-        Project43
+        Project42   SD卡读写
+        Project43   SD卡读写  存取 从 DS1307 获取 的 时间日期 
 
 Chapter16/
 
-        Project44
-        Project45
+        Project44   串口发送回传
+        Project45   SoftwareSerial 软件串口 
 
 Chapter17/
 
