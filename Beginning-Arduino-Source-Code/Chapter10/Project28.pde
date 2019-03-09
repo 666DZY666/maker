@@ -1,4 +1,4 @@
-// Project 28 =======Stepper步进电机控制
+// Project 28  Stepper步进电机控制
 // https://www.arduino.cc/en/Tutorial/StepperSpeedControl
 #include <Stepper.h>
 
