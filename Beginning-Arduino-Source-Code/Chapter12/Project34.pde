@@ -1,4 +1,4 @@
-// Project 34
+// Project 34  接触传感器  通过lcd 显示 
 
 #include <LiquidCrystal.h>
 
