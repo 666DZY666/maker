@@ -98,9 +98,9 @@ Chapter16/
 
 Chapter17/
 
-        Project46
-        Project47
-        Project48
-        Project49
-        Project50        
+        Project46   单总线温度传感器 SPI以太网模块 数据上传 
+        Project47   单总线温度传感器 SPI以太网模块 数据上传 交互
+        Project48   单总线温度传感器 SPI以太网模块 数据上传 温度报警 发送邮箱
+        Project49   单总线温度传感器 SPI以太网模块 数据上传 Twitterbot
+        Project50   物联网模块 在线获取 温湿度信息       
 
