@@ -1,4 +1,4 @@
-// PROJECT 23
+// PROJECT 23   LiquidCrystal_I2C LCD液晶显示器 
 #include <LiquidCrystal.h>
 
 // initialize the library with the numbers of the interface pins
