@@ -1,4 +1,4 @@
-// Project 33
+// Project 33  接触传感器 
 
 // Power connections
 #define Left 8     // Left (X1) to digital pin 8
@@ -58,8 +58,7 @@ boolean touch()
         delay(3); 
         coordY = analogRead(rightInput);
 
-        // if co-ordinates read are less than 1000 and greater than 0 then the screen
- has been touched
+        // if co-ordinates read are less than 1000 and greater than 0 then the screen has been touched
         if(coordX < 1000 && coordX > 0 && coordY < 1000 && coordY > 0) {touch = true;}
 
           return touch;
