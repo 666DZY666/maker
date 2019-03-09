@@ -1,4 +1,4 @@
-// Project 42
+// Project 42   SD卡读写
 // Based on the SD Fat examples by Bill Greiman from sdfatlib
 
 #include <SdFat.h>
