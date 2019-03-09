@@ -1,4 +1,4 @@
-// Project 7 - Pulsating lamp
+// Project 7 - Pulsating lamp  正弦波脉冲灯
 int ledPin = 11;
 float sinVal;
 int ledVal;
