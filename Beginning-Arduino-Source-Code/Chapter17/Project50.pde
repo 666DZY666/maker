@@ -1,4 +1,4 @@
-// Project 50
+// Project 50  物联网模块 在线获取 温湿度信息 
 // Thanks to  Bob S. for original code
 // Get current weather observation for Edwards AFB from weather.gov in XML format
 
