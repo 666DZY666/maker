@@ -1,4 +1,4 @@
-// Project 14 - Light Sensor
+// Project 14 - Light Sensor 光亮度传感器 转化成声音
 
 int piezoPin = 8;  // Piezo on Pin 8
 int ldrPin = 0;   // LDR on Analog Pin 0
