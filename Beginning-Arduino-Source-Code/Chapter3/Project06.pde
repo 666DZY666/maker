@@ -1,3 +1,4 @@
+// 通过电位器调节延时时间的跑马灯
 byte ledPin[] = {4, 5, 6, 7, 8, 9, 10, 11, 12, 13};    // Create array for LED pins
 int ledDelay; // delay between changes
 int direction = 1;
