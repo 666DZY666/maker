@@ -1,4 +1,5 @@
-#include <avr/pgmspace.h>
+// MAX7219 8*8 led点阵模块
+#include <avr/pgmspace.h> 
 #include <TimerOne.h>
 
 int DataPin = 2; // Pin 1 on MAX
