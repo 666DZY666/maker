@@ -1,4 +1,4 @@
-// Project 27
+// Project 27   两个电位器控制两个舵机 
 #include <Servo.h> 
 
 Servo servo1;  // Create a servo object 
