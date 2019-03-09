@@ -1,4 +1,4 @@
-// Project 38
+// Project 38    pwm脉冲式 距离传感器 
 #define sensorPin 9
 
 long pwmRange, inch, cm;
