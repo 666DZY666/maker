@@ -1,4 +1,4 @@
-// Project 4 - Interactive Traffic Lights
+// Project 4 - Interactive Traffic Lights 汽车、人行道交通灯 交互式交通灯
 
 int carRed = 12; // assign the car lights
 int carYellow = 11;
