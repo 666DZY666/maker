@@ -1,4 +1,4 @@
-// Project 8 - Mood Lamp
+// Project 8 - Mood Lamp  红绿蓝三色随机变化心情灯
 float RGB1[3];
 float RGB2[3];
 float INC[3];
