@@ -1,4 +1,4 @@
-// Project 39
+// Project 39  pwm脉冲式 距离传感器  led点阵屏显示
 
 #include "LedControl.h"
 
