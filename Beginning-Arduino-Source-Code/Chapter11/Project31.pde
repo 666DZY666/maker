@@ -1,3 +1,4 @@
+// spi 通信 读取 气压传感器SCP1000 数值
 /*
 SCP1000             Mega
 DRDY                N/A
@@ -41,7 +42,7 @@ void setup()
         digitalWrite(SLAVESELECT, HIGH); //disable device
 
         SPCR = B01010011; // SPi Control Register
-        //MPIE=0, SPE=1 (on), DORD=0 (MSB first), MSTR=1 (master), CPOL=0 (clock idle when
+        //MPIE=0, SPE=1 (on), DORD=0 (MSB first), MSTR=1 (master), CPOL=0 (clock idle when 
  low), CPHA=0 (samples MOSI on rising edge), SPR1=0 & SPR0=0 (500kHz)
         clr=SPSR; // SPi Status Register
         clr=SPDR; // SPi Data Register
