@@ -1,4 +1,5 @@
 // Project 47 - Based on the Pachube Arduino examples
+// 单总线温度传感器 SPI以太网模块 数据上传 交互
 #include <SPI.h>
 #include <Ethernet.h>
 #include <OneWire.h>
