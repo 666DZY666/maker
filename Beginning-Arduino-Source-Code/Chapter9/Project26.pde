@@ -1,4 +1,4 @@
-// Project 26
+// Project 26   串口命令控制 左右两个电机 
 #include <Servo.h> 
 
 char buffer[10]; 
