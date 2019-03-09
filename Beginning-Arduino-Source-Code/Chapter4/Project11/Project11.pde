@@ -1,4 +1,4 @@
-// Project 11 - Piezo Sounder Alarm
+// Project 11 - Piezo Sounder Alarm 通过管脚发声 余弦波声音
 
 float sinVal;
 int toneVal;
