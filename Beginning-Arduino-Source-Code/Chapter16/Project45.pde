@@ -1,4 +1,4 @@
-// Project 45
+// Project 45  SoftwareSerial 软件串口 
 
 #define lockPin 7
 #define speakerPin 9
