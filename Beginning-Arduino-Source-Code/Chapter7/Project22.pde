@@ -1,4 +1,4 @@
-//Project 22
+//Project 22   MAX7219 8*8 led点阵模块 控制类? 
 #include "LedControl.h"
 
 LedControl myMatrix = LedControl(2, 4, 3, 1); // create an instance of a Matrix
