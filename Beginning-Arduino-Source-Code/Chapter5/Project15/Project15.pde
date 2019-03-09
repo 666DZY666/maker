@@ -1,7 +1,7 @@
-// Project 15 - Simple Motor Control
+// Project 15 - Simple Motor Control 电位器控制PWM电机
 
-int potPin = 0;           // Analog in 0 connected to the potentiometer
-int transistorPin = 9;     // PWM Pin 9 connected to the base of the transistor
+int potPin = 0;           // Analog in 0 connected to the potentiometer 电位器
+int transistorPin = 9;     // PWM Pin 9 connected to the base of the transistor 控制晶体管 驱动电机
 int potValue = 0;         // value returned from the potentiometer
 
 void setup() {
