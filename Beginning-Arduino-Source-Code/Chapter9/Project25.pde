@@ -1,4 +1,4 @@
-// Project 25
+// Project 25   电位器值 控制舵机 
 #include <Servo.h> 
  
 Servo servo1;  // Create a servo object 
@@ -10,7 +10,7 @@ void setup()
  
 void loop() 
 { 
-    	int angle = analogRead(0); // read the pot value
+    	int angle = analogRead(0); // read the pot value 电位器值
     	angle=map(angle, 0, 1023, 0, 180); // map the values from 0 to 180 degrees
     	servo1.write(angle); // write the angle to the servo
     	delay(15); // delay of 15ms to allow servo to reach position 
