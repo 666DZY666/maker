@@ -1,4 +1,4 @@
-// Project 40
+// Project 40    pwm脉冲式 距离传感器  led点阵屏显示 带声音报警功能
 
 #include "LedControl.h"
 
