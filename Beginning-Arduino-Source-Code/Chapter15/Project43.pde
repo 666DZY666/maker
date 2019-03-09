@@ -1,4 +1,4 @@
-// Project 43
+// Project 43  SD卡读写  存取 从 DS1307 获取 的 时间日期 
 // Based on the SD Fat examples by Bill Greiman from sdfatlib
 // DS1307 library by Matt Joyce with enhancements by D. Sjunnesson
 
