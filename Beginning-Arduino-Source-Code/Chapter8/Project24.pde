@@ -1,4 +1,4 @@
-// PROJECT 24
+// PROJECT 24   LiquidCrystal_I2C LCD液晶显示器 显示温度 摄氏度和华氏度
 #include <LiquidCrystal.h>
 
 // initialize the library with the numbers of the interface pins
