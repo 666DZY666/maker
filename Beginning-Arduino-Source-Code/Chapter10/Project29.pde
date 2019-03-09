@@ -1,9 +1,9 @@
-// Project 29 - Using a motor shield
+// Project 29 - Using a motor shield 使用Shield直流电机驱动器控制电机正反转 
 
 // Set the pins for speed and direction of each motor
 int speed1 = 3;  
-int speed2 = 11;  
-int direction1 = 12; 
+int speed2 = 11;      // 速度
+int direction1 = 12;  // 方向
 int direction2 = 13;
 
 void stopMotor() {
