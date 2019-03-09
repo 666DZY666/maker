@@ -1,4 +1,4 @@
-// Project 3 - Traffic Lights
+// Project 3 - Traffic Lights  3个灯闪烁，实现交通灯
 
 int ledDelay = 10000; // delay in between changes
 int redPin = 10;
