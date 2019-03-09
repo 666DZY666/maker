@@ -1,4 +1,4 @@
-// Project 1 - LED Flasher
+// Project 1 - LED Flasher  LED延时循环闪灯
 int ledPin = 10;
 void setup() {
 	 pinMode(ledPin, OUTPUT);
