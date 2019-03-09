@@ -1,4 +1,4 @@
-// Project 5 - LED Chase Effect
+// Project 5 - LED Chase Effect  跑马灯
 byte ledPin[] = {4, 5, 6, 7, 8, 9, 10, 11, 12, 13};   // Create array for LED pins
 int ledDelay(65);  // delay between changes
 int direction = 1;
