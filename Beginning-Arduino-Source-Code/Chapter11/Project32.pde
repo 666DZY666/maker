@@ -1,3 +1,4 @@
+// spi 通信接收SCP1000气压传感器数值，通过lcd显示器显示
 /*
 SCP1000             Mega
 DRDY                N/A
