@@ -1,4 +1,4 @@
-// Project 36
+// Project 36   温度传感器  华氏度 摄氏度 串口打印
 
 #define sensorPin 0
 
