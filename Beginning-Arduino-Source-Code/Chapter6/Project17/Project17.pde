@@ -1,4 +1,4 @@
-// Project 17
+// Project 17  74HC595 串行的信号转为并行的信号 
 
 int latchPin = 8; //Pin connected to Pin 12 of 74HC595 (Latch)
 int clockPin = 12; //Pin connected to Pin 11 of 74HC595 (Clock)
