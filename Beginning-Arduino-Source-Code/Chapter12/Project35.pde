@@ -1,4 +1,4 @@
-// Project 35
+// Project 35  接触传感器  通过 rgb三色 led 灯展示
 
 // Power connections
 #define Left 8     // Left (X1) to digital pin 8
@@ -28,18 +28,18 @@ void setup()
 void loop()
 {    
         if (touch()) {
-                if ((coordX>0 && coordX<270) && (coordY>0 && coordY<460)) {ledState =
- true; delay(50);}
-                if ((coordX>0 && coordX<270) && (coordY>510 && coordY< 880)) {ledState =
- false; delay(50);}
-                if ((coordX>380 && coordX<930) && (coordY>0 && coordY<300)) {red=
-map(coordX, 380, 930, 0, 255);}
-                if ((coordX>380 && coordX<930) && (coordY>350 && coordY<590))
- {green=map(coordX, 380, 930, 0, 255);} 
-                if ((coordX>380 && coordX<930) && (coordY>640 && coordY<880))
- {blue=map(coordX, 380, 930, 0, 255);} 
+                if ((coordX>0 && coordX<270) && (coordY>0 && coordY<460)) 
+                  {ledState =true; delay(50);}
+                if ((coordX>0 && coordX<270) && (coordY>510 && coordY< 880)) 
+                   {ledState =false; delay(50);}
+                if ((coordX>380 && coordX<930) && (coordY>0 && coordY<300)) 
+                   {red=map(coordX, 380, 930, 0, 255);}
+                if ((coordX>380 && coordX<930) && (coordY>350 && coordY<590))
+                   {green=map(coordX, 380, 930, 0, 255);} 
+                if ((coordX>380 && coordX<930) && (coordY>640 && coordY<880))
+                   {blue=map(coordX, 380, 930, 0, 255);} 
                 delay(10);
-}
+        }
 
         if (ledState) {
                 analogWrite(pinR, red);
