@@ -1,4 +1,4 @@
-// Project 9 - LED Fire Effect
+// Project 9 - LED Fire Effect 随机颜色随机颜色随机火焰效果灯
 int ledPin1 = 9;
 int ledPin2 = 10;
 int ledPin3 = 11;
