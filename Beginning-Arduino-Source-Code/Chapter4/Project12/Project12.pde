@@ -1,4 +1,4 @@
-// Project 12 - Piezo Sounder Melody Player
+// Project 12 - Piezo Sounder Melody Player tone 演奏皮耶索·索德旋律
 
 #define NOTE_C3  131
 #define NOTE_CS3 139
