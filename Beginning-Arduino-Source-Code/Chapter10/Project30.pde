@@ -1,4 +1,4 @@
-// Project 30 - Line Following Robot
+// Project 30 - Line Following Robot 三个亮度传感器感应的巡线两轮小车 
 
 #define lights 9
 int LDR1, LDR2, LDR3; // sensor values
