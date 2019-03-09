@@ -1,4 +1,4 @@
-// Project 13 - Piezo Knock Sensor
+// Project 13 - Piezo Knock Sensor 击打声响传感器 转换成 LED亮度
 
 int ledPin = 9; // LED on Digital Pin 9
 int piezoPin = 5; // Piezo on Analog Pin 5
